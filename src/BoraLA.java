@@ -13,6 +13,7 @@ public class BoraLA {
     public static void main(String [] args)
 	{
 		System.out.println("Commit teste");
+                System.out.println("Outro teste");
 	}
     
 }
